@@ -4,3 +4,6 @@ This line is feature1.
 This line is also feature1.
 
 This is second line in feature1.
+
+This line is feature2.
+This line repersents feature2.
